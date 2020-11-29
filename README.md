@@ -1,1 +1,1 @@
-Rest_api exaple written by core php
+Rest_api example written by core php
